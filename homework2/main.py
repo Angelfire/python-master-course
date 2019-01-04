@@ -5,7 +5,6 @@
 Homework Assignment #2: Functions
 """
 
-
 def song():
   """
     Returns:

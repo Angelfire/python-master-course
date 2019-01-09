@@ -2,15 +2,15 @@
 # -*- coding: utf-8 -*-
 
 """Homework 3 - Pirple
-Homework Assignment #3: "If" Statements
+Homework Assignment #3: 'If' Statements
 """
 
 def compare(param1, param2, param3):
   """
     Args:
-      param1 (string or int)
-      param2 (string or int)
-      param3 (string or int)
+      param1 (str or int)
+      param2 (str or int)
+      param3 (str or int)
 
     Returns:
       bool: True if 2 params are equal, False if none of them are equal

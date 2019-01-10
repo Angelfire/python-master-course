@@ -7,3 +7,4 @@
 - homework2: Homework Assignment #2: Functions
 - homework3: Homework Assignment #3: "If" Statements
 - homework4: Homework Assignment #4: Lists
+- homework5: Homework Assignment #5: Basic Loops

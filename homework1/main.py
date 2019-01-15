@@ -6,7 +6,7 @@ Homework Assignment #1: Variables
 
 Depeche Mode - Walking in my shoes
 
-@returns: A list of strings representing the information of my favorite song
+  returns: A list of strings representing the information of my favorite song
 """
 
 song = "Walking in My Shoes"

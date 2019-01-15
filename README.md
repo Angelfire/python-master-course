@@ -8,3 +8,5 @@
 - homework3: Homework Assignment #3: "If" Statements
 - homework4: Homework Assignment #4: Lists
 - homework5: Homework Assignment #5: Basic Loops
+- homework6: Homework Assignment #6: Advanced Loops
+- homework7: Homework Assignment #7: Dictionaries and Sets
